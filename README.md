@@ -1,1 +1,1 @@
-# Retail-and-Marketing-Project
+# Retail-and-Marketing-Analytics-Project
